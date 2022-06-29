@@ -31,11 +31,13 @@ get 2 points.
 
 Screenshots
 
-    Game menu:
-    ![image](https://user-images.githubusercontent.com/61130107/176343476-883f9650-c2cf-43be-a516-7b9a4998c04e.png)
-    
-    Gameplay:
-    ![image](https://user-images.githubusercontent.com/61130107/176343601-961e0d20-17bf-4672-aa93-a0a2be655336.png)
+Game menu:
+
+![image](https://user-images.githubusercontent.com/61130107/176343476-883f9650-c2cf-43be-a516-7b9a4998c04e.png)
+
+Gameplay:
+
+![image](https://user-images.githubusercontent.com/61130107/176343601-961e0d20-17bf-4672-aa93-a0a2be655336.png)
 
             
             
