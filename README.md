@@ -14,7 +14,7 @@ You will be playing against the US Eagle (the computer). The round consists of 3
 winner with the most points after the 3 rounds wins. Here are the rules of the game:
 • The game consists of 3 hands.
 • The winner with the most points after 3 hands wins.
-• The US and the user start each game with 0 points each.
+• TheUS and the user start each game with 0 points each.
 • A hand consists of the user making a selection and The US randomly making a selection.
 • The winner of each hand wins 2 points based on the following:
 o Rock beats Scissors (a rock can break a scissors)
@@ -24,3 +24,6 @@ o Eagle beats Paper & Scissors (Eagle can tear paper and break scissors with its
 • If you play an Eagle and you lose (e.g. The US plays a rock), you lose 3 points. If you win, you
 get 2 points.
 • You can only play 1 Eagle per game
+
+    PC player Name : TheUs
+    Your name : your name 
